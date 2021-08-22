@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-*Study Computer Science and Math. Code for fun. *
+*I'm **Tsunho**,an undergrad in Computer Science and Math.*
 
 - 🌱 I’m currently learning [Intro Database System](https://15445.courses.cs.cmu.edu/fall2020/)
 
