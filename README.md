@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-*I'm **Tsunho**,an undergrad in Computer Science and Math.*
+*I'm **Tsunho**,an senior undergrad in Computer Science and Math.*
 
-- 🌱 I’m currently learning [Intro Database System](https://15445.courses.cs.cmu.edu/fall2020/)
+- 🧑🏻‍🎓 Bachelor of Arts excepted Summer 2022.
+
+- 🌱 I’m currently learning [Parallel Computer Architecture and Programming](https://www.cs.cmu.edu/~418/)
 
 - 😄 Languages of interest: C/C++ Java Go.
 
