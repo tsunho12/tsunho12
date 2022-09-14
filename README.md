@@ -3,7 +3,7 @@
 
 I build database systems with the C++ programming language.
 
-- Currently a master's student in MSCS program at Simon Fraser University.
+- Incoming graduate student of Simon Fraser University MSCS program.
 
 - [About me](https://tsunho.me/about/)
 
