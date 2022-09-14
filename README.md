@@ -3,11 +3,11 @@
 
 I build database systems with the C++ programming language.
 
-- Expected to graduate from University of Electronic Science and Technology of China in Summer 2022.
-
-- Incoming graduate student of Simon Fraser University MSCS program.
+- Currently a master's student in MSCS program at Simon Fraser University.
 
 - [About me](https://tsunho.me/about/)
+
+- [Curriculum Vitae](https://tsunho.me/cv/CV_v1.pdf)
 
 Also available at:
 
