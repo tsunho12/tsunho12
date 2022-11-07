@@ -3,7 +3,7 @@
 
 I build database systems with the C++ programming language.
 
-- Incoming graduate student of Simon Fraser University MSCS program.
+- Currently a first-year master's student in Simon Fraser University MSCS program.
 
 - [About me](https://tsunho.me/about/)
 
@@ -11,6 +11,6 @@ I build database systems with the C++ programming language.
 
 Also available at:
 
-- [Linkedln](https://www.linkedin.com/in/tsunho-choy/)
+- [Linkedln](https://www.linkedin.com/in/guodong-yue/)
 
 - [Tech Blog(in Chinese)](https://tsunho.me/)
