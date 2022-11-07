@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm **Tsunho Choy**. 
 
 
 I build database systems with the C++ programming language.
