@@ -3,7 +3,7 @@ Hi, I'm **Tsunho Choy**.
 
 I build database systems with the C++ programming language.
 
-- Currently a first-year master's student in Simon Fraser University MSCS program.
+- Currently a first-year master's student in Simon Fraser University M.Sc. Thesis program.
 
 - [About me](https://tsunho.me/about/)
 
