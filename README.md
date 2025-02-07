@@ -11,6 +11,4 @@ I build database systems with the C++ programming language.
 
 Also available at:
 
-- [Linkedln](https://www.linkedin.com/in/guodong-yue/)
-
 - [Tech Blog(in Chinese)](https://tsunho.me/)
